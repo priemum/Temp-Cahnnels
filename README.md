@@ -2,11 +2,11 @@
 
 <h3 align="center">Make a temporary channels easly!.</h3>
 
-**Make Sure You Can Invite The Real Bot From [Here](https://discord.com/oauth2/authorize?client_id=780558820640423966&permissions=1647832432&scope=bot%20applications.commands)**
+**Make Sure You Can Invite The Real Bot From [Here!](https://discord.com/oauth2/authorize?client_id=780558820640423966&permissions=1647832432&scope=bot%20applications.commands)**
 
 ## ⚡ Installation
 
-fist go to `config` folder soo you will find a `ids.json` and `bot.json` files, first edit `bot.json` file like that:
+First go to `config` folder, then you will find `ids.json` and `bot.json` files, first edit `bot.json` file like that:
 
 ```json
 {
@@ -15,7 +15,7 @@ fist go to `config` folder soo you will find a `ids.json` and `bot.json` files, 
 }
 ```
 
-then you have to edit `ids.json` file like that:
+Then you have to edit `ids.json` file like that:
 
 ```json
 {
@@ -24,15 +24,15 @@ then you have to edit `ids.json` file like that:
 }
 ```
 
-now lits install the packages with this command:
+Now install the packages with this command:
 
 ```npm install```
 
-then run the project with this command:
+Then run the project with this command:
 
 ```node .```
 
-## ✨ Mad By
+## ✨ Made By
 
 ```@ニロ#3121```
 
